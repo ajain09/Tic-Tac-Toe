@@ -1,3 +1,3 @@
 # Tic-Tac-Toe
 
-using minimax algorithm
+https://minimaxalgo.herokuapp.com/
